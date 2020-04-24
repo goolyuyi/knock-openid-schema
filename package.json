@@ -1,0 +1,16 @@
+{
+  "name": "knock-openid-schema",
+  "version": "0.0.1",
+  "main": "openid-schema.js",
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "cookie-signature": "^1.1.0",
+    "openid-client": "^3.14.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
